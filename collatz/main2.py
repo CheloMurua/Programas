@@ -16,4 +16,4 @@ if entrada.isdigit():
     else:
         print("Debe ser un número mayor que cero.")
 else:
-    print("Entrada inválida. Por favor ingrese un número entero positivo.")
+    print("Entrada inválida. Por favor ingrese un número entero positivo dentro de los reales.")
